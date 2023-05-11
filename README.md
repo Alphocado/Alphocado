@@ -9,7 +9,7 @@
 - ⚡ Fun Fact: i like to work hard
 
 ## Education
-- SMK Telkom Makassar | RPL (Software Engineering) | Makassar `2022-2024`
+- SMK Telkom Makassar | RPL (Software Engineering) | Makassar `2021-2024`
 
 ## Achivement: [Certificate](https://drive.google.com/drive/folders/1vZtgwGDtF1jrWWkssWa6kQTotlNb2Vy6?hl=id)
 1. 3Rd Winner Web Design Competition by Electro Invention Race `2023`
