@@ -17,5 +17,6 @@
 ![python](https://github.com/Alphocado/Alphocado/assets/91828843/707f2de9-fee0-4b1c-a4d3-afdbcea07c91)
 ![ruby](https://github.com/Alphocado/Alphocado/assets/91828843/33cff139-9445-4d85-a89d-6d6557ba9162)
 
-## Achivement
-1. 3Rd Winner Web Design 
+## Achivement: [Certificate](https://drive.google.com/drive/folders/1vZtgwGDtF1jrWWkssWa6kQTotlNb2Vy6?hl=id)
+1. 3Rd Winner Web Design Competition by Electro Invention Race `2023`
+2. 3Rd Winner Web Design Competition by Electro Invention Race `2022`
