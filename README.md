@@ -3,7 +3,7 @@
 ## About
 - :man: I'm 17 years old
 - 👦 I'm have been learn code since 2019
-- 🔭 I'm currently work from home (WFH) for a company
+- 🔭 I'm a high school student
 - 🌱 I'm currently learning Dart, Go, Kotlin, Design & Editing
 - 📫 How to reach me: raylienardy@gmail.com
 - ⚡ Fun Fact: i like to work hard
