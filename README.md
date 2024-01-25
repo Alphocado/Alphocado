@@ -2,9 +2,9 @@
 
 ## About
 - :man: I'm 17 years old
-- 👦 I'm have been learn code since 2019
+- 👦 I have been learn code since 2019
 - 🔭 I'm a high school student
-- 🌱 I'm currently learning Dart, Go, Kotlin, Design & Editing
+- 🌱 I'm currently learning Web Design, Game Developer, and Design
 - 📫 How to reach me: raylienardy@gmail.com
 - ⚡ Fun Fact: i like to work hard
 
