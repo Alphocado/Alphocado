@@ -6,7 +6,7 @@
 - 🔭 I'm a high school student
 - 🌱 I'm currently learning Web Design, Game Developer, and Design
 - 📫 How to reach me: raylienardy@gmail.com
-- ⚡ Fun Fact: i like to work hard
+- ⚡ Fun Fact: i like something new
 
 ## Education
 - SMK Telkom Makassar | RPL (Software Engineering) | Makassar `2021-2024`
