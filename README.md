@@ -3,7 +3,7 @@
 ## About
 - :man: I'm 18 years old
 - 👦 I have been learn code since 2019
-- 🔭 I'm a fresh graduate school student
+- 🔭 I'm a University student in Universitas Negeri Makassar
 - 🌱 I'm currently learning Web Design, Game Developer, and Design
 - 📫 How to reach me: raylienardy@gmail.com
 - ⚡ Fun Fact: i like something new
