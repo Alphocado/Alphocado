@@ -52,30 +52,19 @@
 
 ---
 
-## Projects
+## GitHub Activity
 
-> Replace these placeholders with your real repositories when ready.
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alphocado&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
 
-### Project One
-Short description of what the project does and what you learned from it.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alphocado&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+</p>
 
-- Tech stack: `HTML` `CSS` `JavaScript`
-- Repository: [Link](#)
-- Live demo: [Link](#)
-
-### Project Two
-Short description of what the project does and what you learned from it.
-
-- Tech stack: `PHP` `Laravel`
-- Repository: [Link](#)
-- Live demo: [Link](#)
-
-### Project Three
-Short description of what the project does and what you learned from it.
-
-- Tech stack: `Python`
-- Repository: [Link](#)
-- Live demo: [Link](#)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphocado&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
 
 ---
 
