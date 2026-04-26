@@ -86,22 +86,6 @@ Software Engineering (RPL)
 
 ---
 
-## GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alphocado&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alphocado&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphocado&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-
----
-
 ## Contact
 
 - Email: **raylienardy@gmail.com**
