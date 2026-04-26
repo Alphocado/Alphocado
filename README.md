@@ -8,6 +8,10 @@
   Web Developer • UI/UX Designer • Flutter Learner
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alphocado&color=0e7490&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## About Me
@@ -16,52 +20,58 @@
 - I’ve been learning code since **2019**
 - I enjoy building clean, functional, and user-friendly digital experiences
 - I’m currently improving my skills in **Web Design**, **Flutter**, and **UI/UX**
-- My long-term interests also include **Game Development**, **Android Development**, **Blockchain**, and **AI**
+- My long-term interests include **Game Development**, **Android Development**, **Blockchain**, and **AI**
 
 ---
 
-## Current Stack
+## Core Stack
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
----
+## Currently Learning
 
-## Currently Exploring
+<p align="left">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+</p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="42" height="42" />
+## Design Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 ---
 
 ## Projects
 
-> Replace these placeholders with your real repositories whenever you are ready.
+> Replace these placeholders with your real repositories when ready.
 
-### 1. Project Name
-Short description of what the project does, what problem it solves, or what you learned from it.
+### Project One
+Short description of what the project does and what you learned from it.
 
 - Tech stack: `HTML` `CSS` `JavaScript`
 - Repository: [Link](#)
 - Live demo: [Link](#)
 
-### 2. Project Name
-Short description of what the project does, what problem it solves, or what you learned from it.
+### Project Two
+Short description of what the project does and what you learned from it.
 
 - Tech stack: `PHP` `Laravel`
 - Repository: [Link](#)
 - Live demo: [Link](#)
 
-### 3. Project Name
-Short description of what the project does, what problem it solves, or what you learned from it.
+### Project Three
+Short description of what the project does and what you learned from it.
 
 - Tech stack: `Python`
 - Repository: [Link](#)
@@ -87,20 +97,26 @@ Software Engineering (RPL)
 
 ---
 
-## Contact
+## GitHub Activity
 
-- Email: **raylienardy@gmail.com**
-- GitHub: **[@Alphocado](https://github.com/)**
-- Portfolio: **Coming soon**
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alphocado&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alphocado&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphocado&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
 
 ---
 
-## Goals
+## Contact
 
-- Strengthen my web development fundamentals
-- Improve UI/UX design quality and consistency
-- Build better real-world projects
-- Keep learning and growing step by step
+- Email: **raylienardy@gmail.com**
+- GitHub: **[@Alphocado](https://github.com/Alphocado)**
 
 ---
 
