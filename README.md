@@ -33,7 +33,8 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="http://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black" alt="C/C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk" alt="Java" />
 </p>
 
